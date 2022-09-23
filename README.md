@@ -1,3 +1,4 @@
+Lab 1: Juilee Samir Kotnis Worked with: Sushrut Salil Thakur
 # ESE-5190-Lab-1
 ![](https://github.com/JuiUpenn11/ESE-5190-Lab-1/blob/main/short-proximity.gif)
 
